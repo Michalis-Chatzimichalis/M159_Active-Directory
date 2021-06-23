@@ -1,9 +1,8 @@
-README for AD-PowerShell Tool
-------------------------------
-Author: Michalis Chatzimichalis
-Date: 01.11.2020
+README für AD-PowerShell Tool
+
+Author: Michalis Chatzimichalis\
+Date: 01.11.2020\
 Version: 1.0
-------------------------------
 
 ## Beschreibung und Erste Schritte
 
@@ -15,7 +14,7 @@ Um das Programm zu starten, müssen Sie die main_0.ps1-Datei starten. Das GUI so
 [1 - Hauptmenü](#1---hauptmenü)\
 [2 - Neuen User hinzufügen](#2---neuen-user-hinzufügen)\
 [3 - Bestehender User löschen](#3---bestehender-user-löschen)\
-[4 - OUs anzeigen](#4---ous-anzeigen)
+[4 - OUs anzeigen](#4---ous-anzeigen)\
 [5 - Gruppen anzeigen](#5---gruppen-anzeigen)
 
 
@@ -25,8 +24,8 @@ Um das Programm zu starten, müssen Sie die main_0.ps1-Datei starten. Das GUI so
 In diesem Hauptmenü habt ihr lediglich 4 Optionen 
 * Einen neuen User zu erstellen samt Username, Passwort, Telefonnummer und zugehörige OU
 * Einen bestehenden User gemäss Dropdown endgültig zu löschen
-* Alle Organisationseinheiten der Domäne anzuschauen und ein Feld für das Objekteanzeige
-* 1.4 Alle Sicherheitsgruppen der Domäne anzuschauen und ein Feld für das Objekteanzeige
+* Alle Organisationseinheiten der Domäne anzuschauen und ein Feld für die Objekteanzeige
+* 1.4 Alle Sicherheitsgruppen der Domäne anzuschauen und ein Feld für die Objekteanzeige
 
 ------------
 ### 2 - Neuen User hinzufügen
