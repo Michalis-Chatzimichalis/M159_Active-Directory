@@ -1,13 +1,13 @@
-README für AD-PowerShell Tool
-
+## Details
+-----------
 Author: Michalis Chatzimichalis\
 Date: 01.11.2020\
 Version: 1.0
 
-## Beschreibung und Erste Schritte
+## Beschreibung
 
-Das Programm dient zur Abfragen, Erstellen und Löschen von ActiveDirectory Objekten.
-Um das Programm zu starten, müssen Sie die main_0.ps1-Datei starten. Das GUI sowie dieses ReadMe erscheint.
+Das Programm dient zur **Abfragen, Erstellen** und **Löschen** von Active Directory Objekten.
+Um das Programm zu starten, müssen Sie die **main_0.ps1**-Datei starten. Das GUI sowie dieses ReadMe erscheint demnächst.
 
 ----------
 ## Inhaltsverzeichnis
@@ -25,12 +25,13 @@ In diesem Hauptmenü habt ihr lediglich 4 Optionen
 * Einen neuen User zu erstellen samt Username, Passwort, Telefonnummer und zugehörige OU
 * Einen bestehenden User gemäss Dropdown endgültig zu löschen
 * Alle Organisationseinheiten der Domäne anzuschauen und ein Feld für die Objekteanzeige
-* 1.4 Alle Sicherheitsgruppen der Domäne anzuschauen und ein Feld für die Objekteanzeige
+* Alle Sicherheitsgruppen der Domäne anzuschauen und ein Feld für die Objekteanzeige
 
 ------------
 ### 2 - Neuen User hinzufügen
 
 Um einen neuen User hinzufügen müsst Ihr alle Felder ausfüllen, sowie eine OU in der Domäne raussuchen.
+
 
 Die Checkboxes betr. das Passwort sind optional.
 
